@@ -8,7 +8,7 @@ a {
 }
 
     a:link, a:visited {
-        color: #b5e2fd;
+        color: #66d9ff;
     }
 
     a:hover, a:active, a:focus {
@@ -29,7 +29,7 @@ h1, h2, h3, h4 {
     }
 
         h1 a:active, h1 a:hover, h1 a:link, h1 a:visited {
-            color: #b5e2fd;
+            color: #66d9ff;
         }
 
 .bordered {
@@ -53,7 +53,7 @@ h1, h2, h3, h4 {
 }
 
 .bullet {
-    color: #b5e2fd;
+    color: #66d9ff;
 }
 
 .alert {
@@ -6338,7 +6338,7 @@ footer, #autocomplete_menu.search_menu footer.unified {
     }
 
         footer ul a:link, footer ul a:visited, #autocomplete_menu.search_menu footer.unified ul a:link, #autocomplete_menu.search_menu footer.unified ul a:visited {
-            color: #b5e2fd;
+            color: #66d9ff;
         }
 
 .plastic_row h3 {
@@ -6828,7 +6828,7 @@ table tr {
 }
 
     .ent_alert a:link, .ent_alert a:visited {
-        color: #b5e2fd;
+        color: #66d9ff;
     }
 
 .ent_alert_page.ent_alert_error {
@@ -7360,7 +7360,7 @@ html.no_touch .action_cog:hover {
 }
 
     .widescreen:not(.nav_open) nav#site_nav ul a:link, .widescreen:not(.nav_open) nav#site_nav ul a:visited, .widescreen:not(.nav_open) nav#site_nav ul a:hover, .widescreen:not(.nav_open) nav#site_nav ul a:active {
-        color: #b5e2fd;
+        color: #66d9ff;
     }
 
 .widescreen:not(.nav_open) nav#site_nav #user_menu_name {
@@ -8659,7 +8659,7 @@ comments {
 }
 
 a, a:link, a:visited {
-    color: #b5e2fd;
+    color: #66d9ff;
 }
 
 /* fix messages background color */
