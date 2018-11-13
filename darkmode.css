@@ -2824,7 +2824,7 @@ ts-mention {
     }
 
         .msg_inline_video_buttons_div a:visited {
-            color: #a1a1a1;
+            color: #0099cc;
             text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
         }
 
@@ -5317,7 +5317,7 @@ input[type="text"].p-emoji_picker__input:focus {
 }
 
     #fs_modal.p-apps_browser_modal .contents_container .contents .links_container a:active, #fs_modal.p-apps_browser_modal .contents_container .contents .links_container a:hover, #fs_modal.p-apps_browser_modal .contents_container .contents .links_container a:visited {
-        color: #a1a1a1;
+        color: #0099cc;
     }
 
 #incoming_call {
