@@ -4897,10 +4897,15 @@ span.match {
     color: #949494;
 }
 
+/*User background color*/
 .c-member_slug--link {
   background: #363636;
 }
 
+.c-member_slug {
+  background: #363636;
+}
+/*User background color*/
 
 
 .c-member__display-name, .c-team__display-name, .c-usergroup__handle {
