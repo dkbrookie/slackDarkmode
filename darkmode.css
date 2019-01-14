@@ -8683,3 +8683,7 @@ a, a:link, a:visited {
 .p-message_pane__limited_history_foreword_headline {
     color: #a1a1a1 !important;
 }
+
+.c-file_container {
+  color: a1a1a1
+}
