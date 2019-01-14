@@ -8684,6 +8684,6 @@ a, a:link, a:visited {
     color: #a1a1a1 !important;
 }
 
-.c-file_container {
+.c-file_container, .c-message__content, .c-message__gutter, .c-email__title_collapsed, .c-email__preview_collpased {
   color: a1a1a1
 }
