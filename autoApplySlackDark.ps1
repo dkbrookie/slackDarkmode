@@ -1,6 +1,6 @@
 ##powershell.exe -command "& {(new-object Net.WebClient).DownloadString('https://raw.githubusercontent.com/dkbrookie/slackDarkmode/master/autoApplySlackDark.ps1') | iex}"
 
-$vers = Get-ChildItem "C:\Users\$env:UserName\appdata\local\slack" | Where {$_.Name -like 'app-*'} | Select -ExpandProperty Name
+$vers = Get-ChildItem "C:\Users\$env:UserName\appdata\local\slack" | Where {$_.Name -like "app-3.*"} | Select -ExpandProperty Name -Last 1
 $slackDir = "C:\Users\$env:UserName\AppData\Local\slack\$vers\resources\app.asar.unpacked\src\static"
 $slackFile = "$slackDir\ssb-interop.js"
 $slackBackup = "$slackDir\ssb-interop.js.bak"
